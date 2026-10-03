@@ -82,10 +82,7 @@ st.title("🤖 CarryAura AI Monitor")
 # Website
 # ==========================================
 
-PRODUCT_URL = (
-    "https://carryaura.com/product/"
-    "product-luna-pebbled-leather-moon-bag/"
-)
+PRODUCT_URL = "https://carryaura.com/this-page-does-not-exist-99999"
 
 
 # ==========================================
